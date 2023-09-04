@@ -1,4 +1,6 @@
-### IMPORTANT! In order to use the code you'll need the CS50 library. Follow the instructions and download the CS50 library at the link below:
+### IMPORTANT! In order to use the code you'll need the CS50 library.
+
+Follow the instructions and download the CS50 library at the link below:
 
 https://github.com/cs50/libcs50
 
