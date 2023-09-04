@@ -10,7 +10,7 @@ This script is a simple vote counter. To run, the user types the name of the pro
 
 `./plurality Alice Bob Charlie`
 
-Once entered, the user will be prompted for the number of votes. For instance, 5. One entered, each vote will need to be entered. Once the total votes are entered, the winner is calculated.
+Once entered, the user will be prompted for the number of votes. For instance, 5. Once entered, each vote will need to be entered. Once the total votes are entered, the winner is calculated.
 
 ### runoff.c
 
@@ -18,4 +18,4 @@ This script calculates a winner based of a runoff election. To run, the user typ
 
 `./plurality Alice Bob Charlie`
 
-Once entered, the user will be prompted for the number of votes. For instance, 5. One entered, each voter will enter their choices in a ranking order. After all the voters choices are entered, the winner is calculated.
+Once entered, the user will be prompted for the number of votes. For instance, 5. Once entered, each voter will enter their choices in a ranking order. After all the voters choices are entered, the winner is calculated.
